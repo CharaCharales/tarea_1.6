@@ -1,0 +1,55 @@
+body
+{
+	background-color: #a6dcdc;
+	font-family: consolas;
+}
+
+h1
+{
+	text-align: center;
+	font-size: 3em;
+}
+
+h2
+{
+	text-align: justify;
+	font-size: 1.3em;
+	margin: auto;
+}
+
+p
+{
+	text-align: justify;
+	font-size: 1em;
+	margin: auto;
+}
+
+table tr th
+{
+	text-align: justify;
+	font-size: 1.3em;
+	margin: auto;
+}
+
+table tr td
+{
+	text-align: justify;
+	font-size: 1em;
+	margin: auto;
+}
+
+#valor
+{
+	width: auto;
+	text-align: center;
+	font-weight: bold;
+	background: #a6dcdc;
+}
+
+#generar_resultado
+{
+	font-weight: bold;
+	width: 100%;
+	height: 100%;
+	background: #a6dcdc;
+}
